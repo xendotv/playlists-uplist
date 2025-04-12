@@ -1,0 +1,497 @@
+#EXTM3U teleguide="http://www.teleguide.info/download/new3/xmltv.xml.gz"
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/983.png" tvg-name="Первый HD" tv-number="'1'" group-title="Общие",Первый HD
+#EXTVLCOPT:url-epg=http://www.teleguide.info/download/new3/xmltv.xml.gz
+http://185.93.109.212:3001/general/Pervyykanal.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/984.png" tvg-name="Россия HD" group-title="Общие",Россия 1 HD
+http://185.93.109.212:3001/general/Rossiya1.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2051.png" tvg-name="Матч! HD" group-title="Общие",Матч! HD
+#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
+http://185.93.109.212:3001/general/Match.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/eWjm281v9VYqwzx934ZREnk3GBgNLKQX.png" tvg-name="НТВ" group-title="Общие",НТВ HD
+http://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/427.png" tvg-name="Пятый Канал" group-title="Общие",Пятый канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/video_800x450_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/187.png" tvg-name="Культура" group-title="Общие",Культура
+https://player.smotrim.ru/iframe/stream/live_id/19201
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1683.png" tvg-name="Россия 24" group-title="Общие",Россия 24
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/video_800x450_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/740.png" tvg-name="Карусель" group-title="Общие",Карусель
+#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/video_800x450_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1000.png" tvg-name="ОТР" group-title="Общие",ОТР
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/video_800x450_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" tvg-name="ТВ Центр" group-title="Общие",ТВ Центр
+http://185.93.109.212:3001/general/TVZentrHD.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2487.png" tvg-name="РЕН ТВ" group-title="Общие",РЕН ТВ HD
+http://185.93.109.212:3001/general/RENTV.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2141.png" tvg-name="Спас ТВ" group-title="Общие",Спас ТВ
+http://s91412.cdn.ngenix.net/mdrm/CH_SPAS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/79.png" tvg-name="СТС" group-title="Общие",СТС
+http://185.93.109.212:3001/general/STS.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/304.png" tvg-name="Домашний" group-title="Общие",Домашний
+http://185.93.109.212:3001/general/Domashniy.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/698.png" tvg-name="ТВ-3" group-title="Общие",ТВ-3
+http://185.93.109.212:3001/general/TV-3.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1003.png" tvg-name="Пятница" group-title="Общие",Пятница
+http://185.93.109.212:3001/general/Pyatniza.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/405.png" tvg-name="Звезда" group-title="Общие",Звезда
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/726.png" tvg-name="МИР" group-title="Общие",МИР
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/353.png" tvg-name="ТНТ HD" group-title="Общие",ТНТ HD
+#EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
+http://185.93.109.212:3001/general/TNT.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/897.png" tvg-name="МУЗ-ТВ" group-title="Общие",МУЗ-ТВ
+https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
+#EXTINF:-1 tvg-logo="https://resizer.mail.ru/p/ddb1c868-9933-5e3a-adba-4a5e412c005a/AAACPWfbuF3pxUR7cjYm590OKiChyMhDLLvTPgPqH8LDQpOPE18PA7Z9BTqjagAiNpugtrk2Tpkb62urro8K6bFlri0.png" tvg-name="Чaваш Ен" group-title="Общие",Чaваш Ен
+http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_CHR_NATIONALTV/variant.m3u8
+#EXTINF:-1 tvg-id="ЮТВ (Чебоксары)" tvg-logo="https://assets.limehd.tv/uploads/channel/179/thumb_edc216bf063873019db1fa95f0f9b558.png" tvg-name="ЮТВ Чебоксары" group-title="Общие",ЮТВ Чебоксары
+http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_CHR_UTV/variant.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2288.png" tvg-name="Суббота!" group-title="Общие",Суббота!
+https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" tvg-name="ТНТ4" group-title="Общие",ТНТ4
+https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
+#EXTINF:-1 tvg-logo="https://programma-peredach.com/img/ch/russkij-korabl.gif" tvg-name="Русский  Корабль" group-title="Общие",Русский  Корабль
+https://media.rus-ship.ru:8588/live/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1598.png" tvg-name="Че" group-title="Общие",Че!
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/898.png" tvg-name="Ю" group-title="Общие",Ю
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1322.png" tvg-name="СТС Love" group-title="Общие",СТС Love
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/323.png" tvg-name="Канал 2x2" group-title="Общие",2x2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/video_800x450_avc1/variant.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/8yEqmeblB579jow4LdxOK3Vvd1QJARY2.png" tvg-name="Звезда Плюс" group-title="Общие",Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdlow.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/vQ97O6Vp54NE2yxm6qMLKe3Pjln8qJAm.png" tvg-name="Союз HD" group-title="Общие",Союз HD
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/743.png" tvg-name="РБК" tv-number="'50'" group-title="Новостные",РБК
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/8gDbA7qlEn341oyPa6ZGdyX9vwPLOWm5.png" tvg-name="Соловьев.Live" group-title="Новостные",Соловьев.Live
+https://player.smotrim.ru/iframe/stream/live_id/63338?ext=.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2271.png" tvg-name="Известия" group-title="Новостные",Известия
+http://185.93.109.212:3001/general/Izvestiya.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2265.png" tvg-name="360 Новости" group-title="Новостные",360°
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2078.png" tvg-name="МИР 24" group-title="Новостные",МИР 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/YlRXp9zJO7B0WeZ1pQM68y35DwQnGrjA.png" tvg-name="КВН ТВ" group-title="Развлекательные",КВН ТВ
+http://185.93.109.212:3001/general/KVNTV.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/Wjm281v9VYqwzx9PW6oREnk3GBgNLKQX.png" tvg-name="Gags Network" group-title="Развлекательные",Gags Network
+rtmp://5.182.229.90//7142
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/1pBwDQkeR5089Zq0W0M2yrY7KNbnjLzG.png" tvg-name="Е HD" group-title="Развлекательные",Е HD
+http://cdn-01.bonus-tv.ru/gsl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="5441" tvg-logo="https://app.playlistbox.com/icon/g0zG8mANjv6eLoJ24Lo23ODn9Yk71pX4.png" tvg-name="Твое ТВ" group-title="Развлекательные",Твое ТВ
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/8gDbA7qlEn341oyPg3ZGdyX9vwPLOWm5.png" tvg-name="Твое ТВ Юмор HD" group-title="Развлекательные",Твое ТВ Юмор HD
+http://tvoetv.space:8080/tvoetv_humor/video.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/38qNz762JY5OD9x0KVoPn1eAa4GyvL0V.png" tvg-name="Победа HD" group-title="Кино и сериалы",Победа HD
+http://37.228.116.109/bigmak8/POBEDA/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/nV5EYdPgA0beWmo25qZl2Qpvy9L6KJa3.png" tvg-name="День Победы" group-title="Кино и сериалы",День Победы
+http://185.93.109.212:3001/general/DenPobedy.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3357.png" tvg-name="Мосфильм. Золотая коллекция" group-title="Кино и сериалы",Мосфильм. Золотая коллекция
+rtmp://5.182.229.90//7347
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/PmrKve0kgRq96yxLg1oQjNld35WLBJ1w.png" tvg-name="ViP Megahit" group-title="Кино и сериалы",ViP Megahit
+http://81.163.28.109/bigmak11/VIPMEGAHIT/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/nWBRJkX1bvDqj5xzL8Z4KLPzglr60QA7.png" tvg-name="ViP Premiere" group-title="Кино и сериалы",ViP Premiere
+http://82.148.18.138/bigmak8/VIPPREMIERE/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1011.png" tvg-name="ViP Comedy" group-title="Кино и сериалы",ViP Comedy
+http://81.163.28.11/bigmak11/VIP_COMEDY/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png" tvg-name="ViP Serial" group-title="Кино и сериалы",ViP Serial
+http://77.223.98.221/bigmak2/VIPSERIAL/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" tvg-name="TV1000" group-title="Кино и сериалы",TV1000
+http://37.228.116.109/bigmak11/TV1000/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png" tvg-name="TV1000 Action" group-title="Кино и сериалы",TV1000 Action
+http://81.163.29.227/bigmak12/TV1000ACTION/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/YgKnX27GlDPdkZGypPxV6AOrqyjw9z1W.png" tvg-name="TV1000 Русское кино" group-title="Кино и сериалы",TV1000 Русское кино
+http://37.228.117.210/bigmak11/TV1000_RUS_KINO_HD/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/LqEygb36eAPXvx4naeZw1B4J20a7VGdn.png" tvg-name="Кино и сериалы" group-title="Кино и сериалы",Кино и сериалы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/834.png" tvg-name="Дом кино" group-title="Кино и сериалы",Дом кино
+http://81.163.28.11/bigmak9/domkino/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-id="1991" tvg-logo="http://epg.it999.ru/img/2020.png" tvg-name="Дом Кино Премиум" group-title="Кино и сериалы",Дом кино Премиум
+http://37.228.117.210/bigmak2/domkinopremium/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1371.png" tvg-name="А1" group-title="Кино и сериалы",A1
+http://185.93.109.212:3001/p/Amedia1HD.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2492.png" tvg-name="А2" group-title="Кино и сериалы",A2
+http://185.93.109.212:3001/p/Amedia2HD.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2007.png" tvg-name="Amedia Hit" group-title="Кино и сериалы",Amedia Hit
+http://stream01.vnet.am/Nauka/index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/YyWKm9lLEGakqPMQyLMBOnNdRr06XV32.png" tvg-name="AMEDIA PREMIUM HD" group-title="Кино и сериалы",AMEDIA PREMIUM HD
+http://stream01.vnet.am/AmediaPremium/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/566.png" tvg-name="Кинопремьера HD" group-title="Кино и сериалы",Кинопремьера
+http://185.93.109.212:3001/general/KinopremeraHD.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/542.png" tvg-name="Кинохит" group-title="Кино и сериалы",Кинохит
+http://185.93.109.212:3001/general/Kinohit.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/799.png" tvg-name="КИНОСЕРИЯ" group-title="Кино и сериалы",Киносерия
+http://185.93.109.212:3001/general/Kinoseriya.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/987.png" tvg-name="Киносемья" group-title="Кино и сериалы",Киносемья
+http://185.93.109.212:3001/general/Kinosemya.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/821.png" tvg-name="Кинокомедия" group-title="Кино и сериалы",Кинокомедия
+http://185.93.109.212:3001/general/Kinokomediya.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/462.png" tvg-name="Киносвидание" group-title="Кино и сериалы",Киносвидание
+http://185.93.109.212:3001/general/Kinosvidanie.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/644.png" tvg-name="Киномикс" group-title="Кино и сериалы",Киномикс
+http://185.93.109.212:3001/general/Kinomiks.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1584.png" tvg-name="Мужское кино" group-title="Кино и сериалы",Мужское кино
+http://185.93.109.212:3001/general/Muzhskoekino.m3u
+#EXTINF:-1 tvg-id="447" tvg-logo="https://app.playlistbox.com/icon/YlRXp9zJO7B0WeZ1aaZ68y35DwQnGrjA.png" tvg-name="Наше Новое кино" group-title="Кино и сериалы",Наше Новое кино
+http://185.93.109.212:3001/general/Nashenovoekino.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2493.png" tvg-name="Киноужас" group-title="Кино и сериалы",КИНОУЖАС
+http://185.93.109.212:3001/general/Kinouzhas.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/401.png" tvg-name="Русский роман" group-title="Кино и сериалы",Русский роман
+http://81.163.28.11/bigmak8/RUSROMAN/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/d1pBwDQkeR5089Zq4OM2yrY7KNbnjLzG.png" tvg-name="Русский бестселлер" group-title="Кино и сериалы",Русский бестселлер
+http://185.93.109.212:3001/p/Russkiybestseller.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1570.png" tvg-name="Русский детектив" group-title="Кино и сериалы",Русский Детектив
+http://77.223.98.105/bigmak9/rdet/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/53.png" tvg-name="Русский Иллюзион" group-title="Кино и сериалы",Русский Иллюзион
+http://185.93.109.212:3001/general/RusskiyIllyuzion.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/ma2dV6vG79n1geMr2VMQ3EDLAN4b5ryw.png" tvg-name="Hollywood" group-title="Кино и сериалы",Hollywood
+http://91.194.191.241:8081/chid421/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1037.png" tvg-name="Кино ТВ" group-title="Кино и сериалы",Кино ТВ
+http://81.163.28.222/bigmak11/kinotv/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/X2d9PpDYbRjeqxRDL0Zn5k71JNgAKrml.png" tvg-name="Fox HD" group-title="Кино и сериалы",Кинеко
+http://185.93.109.212:3001/general/Kineko.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/Bn6p4Ke1N5rV8ZWOQdZDl0bAWz7dvkJR.png" tvg-name="Fox Life HD" group-title="Кино и сериалы",Сапфир
+http://185.93.109.212:3001/general/Sapfir.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2404.png" tvg-name="Феникс+Кино" group-title="Кино и сериалы",Феникс+ Кино
+http://185.93.109.212:3001/general/Feniks+Kino.m3u
+#EXTINF:-1 tvg-id="start-air" tvg-logo="http://epg.it999.ru/img2/6241.png" tvg-name="START Air HD" group-title="Кино и сериалы",START Air
+http://185.93.109.212:3001/general/STARTAIR.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2145.png" tvg-name="Star Cinema" group-title="Кино и сериалы",Star Cinema
+http://185.93.109.212:3001/general/StarCinema.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2153.png" tvg-name="Star Family" group-title="Кино и сериалы",Star Family
+http://185.93.109.212:3001/general/StarFamily.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/Blgyq19r83p50mxY0AoVkQXvADRObGP7.png" tvg-name="Bolt" group-title="Кино и сериалы",Bolt
+http://185.93.109.212:3001/general/Bolt.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2174.png" tvg-name="Дорама" group-title="Кино и сериалы",Дорама
+http://185.93.109.212:3001/general/Dorama.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/Yw9lbPDOG1VRKZ5Kl8xe8pm3LXjzgkQ2.png" tvg-name="Еврокино" group-title="Кино и сериалы",Еврокино
+http://31.148.48.15:80/Evrokino/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/311.png" tvg-name=".red" group-title="Кино и сериалы",.Red
+http://185.93.109.212:3001/general/Red.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" tvg-name="Sony Turbo" group-title="Кино и сериалы",.Black
+http://185.93.109.212:3001/general/Black.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/516.png" tvg-name="SONY Sci-Fi" group-title="Кино и сериалы",.Sci-Fi
+http://185.93.109.212:3001/general/Sci-Fi.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2732.png" tvg-name="Премиальное HD" group-title="Кино и сериалы",Премиальное HD
+rtmp://5.182.229.90//7222
+#EXTINF:-1 tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-2filmax_0.jpg?itok=i-oGmqFs" tvg-name="2FILMAX" group-title="Кино и сериалы",2FILMAX
+http://hls.goodgame.ru/hls/204717.m3u8
+#EXTINF:-1 tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-1filmax.jpg?itok=szcXvvgJ" tvg-name="1FILMAX" group-title="Кино и сериалы",1FILMAX
+http://hls.goodgame.ru:8080/hls/204708.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/NmGYXlVJ1Da0RjxX8jxzy8dek2wvP5gW.png" tvg-name="Paramount Comedy" group-title="Кино и сериалы",Paramount Comedy
+http://77.223.98.221/bigmak10/PARAMOUNTCOMEDY/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/Bn6p4Ke1N5rV8ZWYyzxDl0bAWz7dvkJR.png" tvg-name="FAN HD" group-title="Кино и сериалы",FAN HD
+http://91.194.191.241:8081/chid439/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/mGYXlVJ1Da0RjxXJbjZzy8dek2wvP5gW.png" tvg-name="НСТ" group-title="Кино и сериалы",НСТ
+http://81.163.28.222/bigmak10/NST/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/73JdNBAn1Kmr52ZK0eo9qgWpjewz6vyk.png" tvg-name="Родное кино" group-title="Кино и сериалы",Родное кино
+http://185.93.109.212:3001/general/Rodnoekino.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/Blgyq19r83p50mxYvPMVkQXvADRObGP7.png" tvg-name="Наше мужское HD" group-title="Кино и сериалы",Наше мужское HD
+http://65.21.85.175:8000/play/a00r/index.m3u8?token=livetv
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/Wjm281v9VYqwzx9zkvMREnk3GBgNLKQX.png" tvg-name="Kinojam 1 HD" group-title="Кино и сериалы",Kinojam 1 HD
+rtmp://5.182.229.90//7260
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/mrKve0kgRq96yxLv4qZQjNld35WLBJ1w.png" tvg-name="Kinojam 2 HD" group-title="Кино и сериалы",Kinojam 2 HD
+rtmp://5.182.229.90//7261
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/54380/2a00000151a053b133d57436e7c93fadeb81/z" tvg-name="Комедия" group-title="Кино и сериалы",Комедия
+http://37.228.117.210/bigmak9/COMEDIA/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/90B7b8PKO54QkGZ6arMNEqAYzmrVWyjg.png" tvg-name="Шокирующее" group-title="Кино и сериалы",Шокирующее
+http://31.131.136.4:8001/play/e013
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/Wjm281v9VYqwzx9P1XoREnk3GBgNLKQX.png" tvg-name="Flix Snip" group-title="Кино и сериалы",Flix Snip
+https://stream-msk-06.ott.tricolor.tv:443/dtv/id669_MSKSG-PVR-1--Flix_Snip/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MDAyNTUwMDc4MjQwNyIsImV4cCI6MTcwMzMyMzQ5NywiaHdpZCI6IjdlOWY2MzFlOTQwYTRmOTIzMjBhYWRmYzBkYjI3OTJhNmJjMjBmNzIxOWJmNzA2MzBlMzAyZGQxOGIwYzQ1NWQiLCJsYXN0X3JlcV9kYXRlIjoxNzAyNzE4Njk3LCJzZXNzaW9uX2lkIjoiNzQzZWJjODdkOTdhOTUyM2E2Y2MxZjMyNGYwOGFmMmMiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.KLekTLSGnEYEIzkqF2dVVxRmiFtt0pwdyu20FiEuPiI
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/ma2dV6vG79n1geMrQexQ3EDLAN4b5ryw.png" tvg-name="Bollywood HD" group-title="Кино и сериалы",Bollywood HD
+https://stream2.cinerama.uz/1444/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/ma2dV6vG79n1geMrKaZQ3EDLAN4b5ryw.png" tvg-name="Индийское кино" group-title="Кино и сериалы",Индийское кино
+http://185.93.109.212:3001/general/Indiyskoekino.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/qLQeVBN6481ymxnwgvMJ9XldROAzkg75.png" tvg-name="Индия" group-title="Кино и сериалы",Индия
+http://185.93.109.212:3001/general/ZeeTV.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/aNGL5kdnv361goa7O6MXVmPjYb7BWK4E.png" tvg-name="Timeless Dizi Channel" group-title="Кино и сериалы",Timeless Dizi Channel
+http://194.158.222.36:6086
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/aNGL5kdnv361goa8PRZXVmPjYb7BWK4E.png" tvg-name="НТВ Хит" group-title="Кино и сериалы",НТВ Хит
+http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/YyWKm9lLEGakqPMQm3MBOnNdRr06XV32.png" tvg-name="НТВ Сериал" group-title="Кино и сериалы",НТВ Сериал
+http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/KPkNpg4maGY0QJolWGZWLRnbqy328jAv.png" tvg-name="НТВ Право" group-title="Кино и сериалы",НТВ Право
+http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/Ky75Aja1n0b8YJZE55ZOpLmdwRrqXgvP.png" tvg-name="НТВ Стиль" group-title="Кино и сериалы",НТВ Стиль
+http://cdn.ntv.ru/th_style/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6258.png" tvg-name="Кино 1 International" group-title="Кино и сериалы",Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/NmGYXlVJ1Da0RjxXwvozy8dek2wvP5gW.png" tvg-name="Мир сериала" group-title="Кино и сериалы",Мир сериала
+http://185.93.109.212:3001/general/Mirseriala.m3u
+#EXTINF:-1 tvg-logo="https://programma-peredach.com/img/ch/tv-1000-world-kino.gif" tvg-name="Viasat Kino World" group-title="Кино и сериалы",Viasat Kino World
+https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/9GzJ5y6bgn0A4wMgO6MYN1Lr2PjakdQv.png" tvg-name="Trash HD" group-title="Кино и сериалы",Trash HD
+http://185.93.109.212:3001/general/Trash.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/X2d9PpDYbRjeqxR6JNxn5k71JNgAKrml.png" tvg-name="RTД" group-title="Познавательные",RTД
+http://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/j5YDKwr2BqLzpgZeggxVW8J7GyvOXld6.png" tvg-name="Арсенал HD" group-title="Познавательные",Арсенал HD
+http://185.93.109.212:3001/general/ArsenalHD.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/Ky75Aja1n0b8YJZEL8MOpLmdwRrqXgvP.png" tvg-name="Animal Planet" group-title="Познавательные",Animal Planet
+http://stream01.vnet.am/AnimalPlanet/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/Blgyq19r83p50mxY8oVkQXvADRObGP7j.png" tvg-name="Discovery HD" group-title="Познавательные",Discovery HD
+http://81.163.28.222/bigmak8/discovery/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/vQ97O6Vp54NE2yxmpeoLKe3Pjln8qJAm.png" tvg-name="Travel+Adventure HD" group-title="Познавательные",Travel+Adventure HD
+http://185.93.109.212:3001/general/Travel+AdventureHD.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/aNGL5kdnv361goajlJxXVmPjYb7BWK4E.png" tvg-name="Investigation Discovery" group-title="Познавательные",Investigation Discovery
+http://81.163.28.222/bigmak9/idxtra/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/0K8XYmkqA6jOWBxPl6xDE1bQl3R4Gyan.png" tvg-name="National Geographic HD" group-title="Познавательные",National Geographic HD
+http://37.228.116.109/bigmak10/NATIONALGEOGRAPHIC/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/XG8pYyreWB49J6o3V7ZmOQ3jKka5L2lD.png" tvg-name="Nat Geo Wild" group-title="Познавательные",Nat Geo Wild
+http://82.148.18.138/bigmak2/NatGeoWild/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/8gDbA7qlEn341oybK1xGdyX9vwPLOWm5.png" tvg-name="HDL" group-title="Познавательные",HDL
+http://94.230.128.105:8080/HDLife/index.m3u8
+#EXTINF:-1 tvg-id="terra-ru" tvg-logo="https://app.playlistbox.com/icon/PkNpg4maGY0QJolpweoWLRnbqy328jAv.png" tvg-name="National Geographic HD" tv-number="'300'" group-title="Познавательные",TERRA
+http://185.93.109.212:3001/p/TerraHD.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/g0zG8mANjv6eLoJrE9o23ODn9Yk71pX4.png" tvg-name="Terra Incognita" group-title="Познавательные",Terra Incognita
+http://185.93.109.212:3001/general/TerraInkognita.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/W82YEm9Vw51D0poVKnxNr4jQPOGd7KJb.png" tvg-name="Нано ТВ HD" group-title="Познавательные",Нано ТВ HD
+http://185.93.109.212:3001/general/Nano.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/521.png" tvg-name="Viasat Explore" group-title="Познавательные",Viasat Explore
+http://81.163.29.103/bigmak2/VIASATEXPLORE/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/277.png" tvg-name="Viasat History" group-title="Познавательные",Viasat History
+https://stream2.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/765.png" tvg-name="Viasat Nature CEE" group-title="Познавательные",Viasat Nature CEE
+http://82.148.18.74/bigmak2/VIASATNATURE/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/0B7b8PKO54QkGZ6dm5xNEqAYzmrVWyjg.png" tvg-name="Viju+ Planet HD" group-title="Познавательные",Viju+ Planet HD
+http://82.148.18.80/bigmak9/VIASATNATUREHISTORY/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/WBRJkX1bvDqj5xzAKeo4KLPzglr60QA7.png" tvg-name="History" group-title="Познавательные",History
+http://82.148.18.98/bigmak13/HistoryHD/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/aqLQeVBN6481ymxn89ZJ9XldROAzkg75.png" tvg-name="H2 HD" group-title="Познавательные",H2 HD
+http://81.163.28.222/bigmak2/History2hd/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-id="moya-planeta" tvg-logo="https://app.playlistbox.com/icon/38qNz762JY5OD9x03noPn1eAa4GyvL0V.png" tvg-name="Моя Планета" group-title="Познавательные",Моя Планета
+http://45.8.251.24/bigmak2/moyaplanetahd/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/Ol64rgEeNLQpPAxOOmx7Yav3GnwkqmBz.png" tvg-name="Глазами туриста" group-title="Познавательные",Глазами туриста
+http://185.93.109.212:3001/general/Glazamiturista.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/NROQV8j3aWyE2vxpNPZwb4Gle19kPLKn.png" tvg-name="Russian Travel Guide (RTG TV)" group-title="Познавательные",RTG HD
+http://185.93.109.212:3001/general/RTGHD.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/XG8pYyreWB49J6o3WDomOQ3jKka5L2lD.png" tvg-name="Загородный Int" group-title="Познавательные",Загородный Int
+https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/XG8pYyreWB49J6o3GbomOQ3jKka5L2lD.png" tvg-name="ТЕЛЕПУТЕШЕСТВИЯ" group-title="Познавательные",ТЕЛЕПУТЕШЕСТВИЯ
+http://91.194.191.241:8081/chid433/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://thumb.tildacdn.com/tild3039-3962-4464-b536-623331616561/-/resize/171x/-/format/webp/_50.png" tvg-name="Home 4K" group-title="Познавательные",Home 4K
+http://hls3.ttv2.space/home_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/0B7b8PKO54QkGZ6KOboNEqAYzmrVWyjg.png" tvg-name="RELAX" group-title="Познавательные",RELAX
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/r1VewAOEpa7GKmZkGbZQzj3nX6k098Rl.png" tvg-name="365 дней ТВ" group-title="Познавательные",365 дней ТВ
+http://91.194.191.241:8081/chid425/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/5YDKwr2BqLzpgZeQ36ZVW8J7GyvOXld6.png" tvg-name="Оружие" group-title="Познавательные",Оружие
+http://185.93.109.212:3001/general/Oruzhie.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/R8gDbA7qlEn341oyPdZGdyX9vwPLOWm5.png" tvg-name="Совершенно Секретно" group-title="Познавательные",Совершенно Секретно
+http://185.93.109.212:3001/general/Sovershennosekretno.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/2q94OaJj6rD5gYx8yYM1ELBXGWRzPQ0A.png" tvg-name="Большая Азия" group-title="Познавательные",Большая Азия
+http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/mrKve0kgRq96yxLvg5ZQjNld35WLBJ1w.png" tvg-name="Неизвестная планета" group-title="Познавательные",Неизвестная планета
+http://185.93.109.212:3001/general/Neizvestnayaplaneta.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/l64rgEeNLQpPAxOdpOM7Yav3GnwkqmBz.png" tvg-name="Неизвестная Россия" group-title="Познавательные",Неизвестная Россия
+http://cdn.ntv.ru/unknown_russia/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/Vg0zG8mANjv6eLoJV8o23ODn9Yk71pX4.png" tvg-name="Приключения HD" group-title="Познавательные",Приключения HD
+http://185.93.109.212:3001/general/PriklyucheniyaHD.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/1pBwDQkeR5089Zq11BZ2yrY7KNbnjLzG.png" tvg-name="Первый Космический HD" group-title="Познавательные",Первый Космический HD
+http://stream01.vnet.am/Evrika/mono.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/R8gDbA7qlEn341oyLWZGdyX9vwPLOWm5.png" tvg-name="Love Nature 4K" group-title="Познавательные",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/mrKve0kgRq96yxLR0RZQjNld35WLBJ1w.png" tvg-name="Y-Nature" group-title="Познавательные",Y-Nature
+http://79.143.29.187/bigmak12/Y-NATURE/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-name="Loupe 4K" group-title="Познавательные",Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1332.png" tvg-name="Мульт" tv-number="'400'" group-title="Детские",МУЛЬТ
+http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/aNGL5kdnv361goa881ZXVmPjYb7BWK4E.png" tvg-name="Смайлик ТВ" group-title="Детские",Смайлик ТВ
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/YyWKm9lLEGakqPMQJzZBOnNdRr06XV32.png" tvg-name="Мультимузыка" group-title="Детские",Мультимузыка
+http://stv.mediacdn.ru/live/cdn/multimuzika/playlist_sdhigher.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2757.png" tvg-name="Мультиландия" group-title="Детские",Мультиландия
+http://185.93.109.212:3001/general/Multilandiya.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/555.png" tvg-name="Tiji" group-title="Детские",TiJi
+https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/yWKm9lLEGakqPMQNbvZBOnNdRr06XV32.png" tvg-name="Gulli Girl" group-title="Детские",Gulli Girl
+http://82.148.18.80/bigmak2/GULLI/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/nV5EYdPgA0beWmo2bzol2Qpvy9L6KJa3.png" tvg-name="Gulli Girl" group-title="Детские",Рыжий
+http://185.93.109.212:3001/general/Ryzhiy(surd).m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/l64rgEeNLQpPAxO50YZ7Yav3GnwkqmBz.png" tvg-name="DuckTV" group-title="Детские",Y-Наше Детское
+http://45.8.251.24/bigmak12/Y-DETSKOE/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-id="liova" tvg-logo="https://app.playlistbox.com/icon/ROQV8j3aWyE2vxpLjyxwb4Gle19kPLKn.png" tvg-name="ЛЁВА HD" group-title="Детские",Лёва
+http://185.93.109.212:3001/general/LYEVA.m3u
+#EXTINF:-1 tvg-id="400036" tvg-logo="https://app.playlistbox.com/icon/Bn6p4Ke1N5rV8ZWBQAMDl0bAWz7dvkJR.png" tvg-name="Солнце" group-title="Детские",Солнце
+http://tv.mediacdn.ru/live/disney/playlist_3000k.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/38qNz762JY5OD9x0yaMPn1eAa4GyvL0V.png" tvg-name="Капитан Фантастика" group-title="Детские",Капитан Фантастика
+http://185.93.109.212:3001/general/KapitanFantastika.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2481.png" tvg-name="СТС Kids HD" group-title="Детские",СТС Kids HD
+http://185.93.109.212:3001/general/STSKids.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/8yEqmeblB579jowrmEZOK3Vvd1QJARY2.png" tvg-name="Мама" group-title="Детские",Мама
+http://stream01.vnet.am/Mama/mono.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/lRXp9zJO7B0WeZ1nnyo68y35DwQnGrjA.png" tvg-name="Baby time" group-title="Детские",Baby time
+http://185.93.109.212:3001/general/BabyTime.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/2q94OaJj6rD5gYx8J4Z1ELBXGWRzPQ0A.png" tvg-name="Детский Мир" group-title="Детские",Детский Мир
+http://stream01.vnet.am/CartoonNetwork/index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/lNqyYR0G5WKaBVxbqXo9wmD7pjLP28OE.png" tvg-name="Уникум" group-title="Детские",Уникум
+http://185.93.109.212:3001/general/Unikum.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/bPpzO3N2aBrqlovjXdoy1vm7j4wQWYnR.png" tvg-name="Y-Disney" group-title="Детские",Y-Disney
+http://82.148.18.98/bigmak12/Y-DISNEY/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/38123/2a00000180042a522254a67a521cf9b25070/160x160" tvg-name="Супер Герои" group-title="Детские",Супер Герои
+http://185.93.109.212:3001/general/Supergeroi.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/K8XYmkqA6jOWBxPd4vxDE1bQl3R4Gyan.png" tvg-name="Nicktoons" group-title="Детские",Nicktoons
+http://stream01.vnet.am/Boomerang/mono.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/qLQeVBN6481ymxnea8oJ9XldROAzkg75.png" tvg-name="В гостях у Сказки" group-title="Детские",В гостях у Сказки
+http://185.93.109.212:3001/general/Vgostyahuskazki.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/aNGL5kdnv361goajklxXVmPjYb7BWK4E.png" tvg-name="Anime TV" group-title="Детские",Anime TV
+http://185.93.109.212:3001/general/AnimeTV.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/NmGYXlVJ1Da0RjxXjWZzy8dek2wvP5gW.png" tvg-name="Da Vinci" group-title="Детские",Da Vinci
+http://185.93.109.212:3001/p/DaVinci.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/aNGL5kdnv361goajklxXVmPjYb7BWK4E.png" tvg-name="Anime Kids" group-title="Детские",Anime Kids
+http://185.93.109.212:3001/general/AnimeKids.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/yYJGdpa7X3k5mZdqbPorv4jR21qgEADK.png" tvg-name="C-Cartoon" group-title="Детские",C-Cartoon
+http://82.148.18.32/bigmak12/Y-C-CARTOON/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/38qNz762JY5OD9x0YKMPn1eAa4GyvL0V.png" tvg-name="Ani" group-title="Детские",Ani
+http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/V5EYdPgA0beWmo2Pm0Ml2Qpvy9L6KJa3.png" tvg-name="Советские мультфильмы" group-title="Детские",Советские мультфильмы
+http://185.93.109.212:3001/general/Sovetskiemultfilmy.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/Wjm281v9VYqwzx9yEvxREnk3GBgNLKQX.png" tvg-name="Детское кино International" group-title="Детские",Детское кино International
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/yYJGdpa7X3k5mZd40JZrv4jR21qgEADK.png" tvg-name="Сказки Зайки" group-title="Детские",Сказки Зайки
+http://185.93.109.212:3001/general/SkazkiZayki.m3u
+#EXTINF:-1 tvg-name="CHD TV" group-title="Детские",CHD TV
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/55846/2a0000017de72061e078410111061a0147f3/340x200" tvg-name="Удар HD" group-title="Спорт",Удар HD
+http://strm.yandex.ru/kal/udar/udar0.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/6ga80m54j7eJAxN5BroYOLbBln3EQNrP.png" tvg-name="KHL Prime HD" group-title="Спорт",KHL Prime HD
+http://185.93.109.212:3001/general/KHLPrime.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/mLqEygb36eAPXvx4VqZw1B4J20a7VGdn.png" tvg-name="KHL" group-title="Спорт",KHL
+http://185.93.109.212:3001/general/KHL.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2250.png" tvg-name="Матч! Премьер HD" group-title="Спорт",Матч Премьер
+http://185.93.109.212:3001/general/MatchPremerHD.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2044.png" tvg-name="Матч! Футбол 1 HD" group-title="Спорт",Матч! Футбол 1 HD
+http://185.93.109.212:3001/general/MatchFutbol1HD.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1042.png" tvg-name="Матч! Футбол 2 HD" group-title="Спорт",Матч! Футбол 2 HD
+http://185.93.109.212:3001/general/MatchFutbol2HD.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2005.png" tvg-name="Матч! Футбол 3 HD" group-title="Спорт",Матч! Футбол 3 HD
+http://185.93.109.212:3001/general/MatchFutbol3HD.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2782.png" tvg-name="Футбол" group-title="Спорт",Футбол
+https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
+#EXTINF:-1 tvg-id="2051" tvg-logo="https://app.playlistbox.com/icon/ROQV8j3aWyE2vxpNAKZwb4Gle19kPLKn.png" tvg-name="Setanta Sports" group-title="Спорт",Setanta Sports
+http://82.148.18.32/bigmak10/SETRU/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2050.png" tvg-name="Матч! Игра HD" group-title="Спорт",Матч! Игра
+http://185.93.109.212:3001/general/MatchIgra.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/yX2d9PpDYbRjeqxRgeMn5k71JNgAKrml.png" tvg-name="VIASAT SPORT HD" group-title="Спорт",VIASAT SPORT HD
+http://81.163.29.227/bigmak2/VIASATSPORT/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2042.png" tvg-name="Матч! СТРАНА" group-title="Спорт",Матч! СТРАНА
+http://185.93.109.212:3001/general/MatchStrana.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2043.png" tvg-name="Матч! ПЛАНЕТА" group-title="Спорт",Матч! ПЛАНЕТА
+https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2003.png" tvg-name="Матч! Арена HD" group-title="Спорт",Матч! Арена
+http://185.93.109.212:3001/general/MatchArena.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2054.png" tvg-name="Матч! Боец" group-title="Спорт",Матч! Боец
+http://185.93.109.212:3001/general/MatchBoez.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/90B7b8PKO54QkGZ6R5ZNEqAYzmrVWyjg.png" tvg-name="Eurosport 1 HD" group-title="Спорт",Eurosport 1 HD
+http://82.148.18.28/bigmak9/EUROSPORT1/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/mrKve0kgRq96yxLvaPZQjNld35WLBJ1w.png" tvg-name="Eurosport 2 HD" group-title="Спорт",Eurosport 2 HD
+http://37.228.117.210/bigmak10/eurosport2/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/jk07Ev2J56XayZ7P12oArgRlD9de8NWP.png" tvg-name="Спортивный HD" group-title="Спорт",Спортивный HD
+http://185.93.109.212:3001/general/SportivnyyHD.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/5YDKwr2BqLzpgZeRzQoVW8J7GyvOXld6.png" tvg-name="Хоккейный HD" group-title="Спорт",Хоккейный HD
+http://185.93.109.212:3001/general/HokkeynyyHD.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/WBRJkX1bvDqj5xz9geo4KLPzglr60QA7.png" tvg-name="Футбольный HD" group-title="Спорт",Футбольный HD
+http://185.93.109.212:3001/general/Futbolnyy.m3u
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/69315/2a000001519007d154ef6a24f72994fd7a46/z" tvg-name="Спорт 1" group-title="Спорт",Спорт 1
+http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/g0zG8mANjv6eLoJ6rQo23ODn9Yk71pX4.png" tvg-name="Setanta Sports 2" group-title="Спорт",Setanta Sports 2
+http://82.148.18.138/bigmak10/SETRU2/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/jk07Ev2J56XayZ7LVNoArgRlD9de8NWP.png" tvg-name="Старт Триумф" group-title="Спорт",Старт Триумф
+https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/8yEqmeblB579jow4O1xOK3Vvd1QJARY2.png" tvg-name="EuroSport live" group-title="Спорт",EuroSport live
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/WnrJEQpk2Dbj6xj3dBM0eNRPLK49Odlv.png" tvg-name="Бокс ТВ" group-title="Спорт",Бокс ТВ
+http://185.93.109.212:3001/general/BoksTV.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2530.png" tvg-name="Старт" group-title="Спорт",Старт
+http://185.93.109.212:3001/general/Start.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/pYgKnX27GlDPdkZGzrMV6AOrqyjw9z1W.png" tvg-name="Extreme Sports" group-title="Спорт",Extreme Sports
+http://185.93.109.212:3001/general/ExtremeSports.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2443.png" tvg-name="Драйв ТВ" tv-number="'550'" group-title="Мужской",Драйв
+http://185.93.109.212:3001/general/Drayv.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/Gl5gOW7dpJq9LRZALPMEkNQX2Bn6V1bA.png" tvg-name="АВТО ПЛЮС" group-title="Мужской",АВТО ПЛЮС
+http://185.93.109.212:3001/general/AvtoPlyus.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2008.png" tvg-name="Авто24 HD" group-title="Мужской",Авто24 HD
+http://185.93.109.212:3001/general/AVTO24.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2483.png" tvg-name="Дикая Охота HD" group-title="Мужской",Дикая Охота HD
+http://185.93.109.212:3001/general/DikayaohotaHD.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2484.png" tvg-name="Дикая Рыбалка HD" group-title="Мужской",Дикая Рыбалка HD
+http://185.93.109.212:3001/general/DikayarybalkaHD.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2627.png" tvg-name="Диалоги о рыбалке" group-title="Мужской",Диалоги о рыбалке
+http://185.93.109.212:3001/general/Dialogiorybalke.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2419.png" tvg-name="Охота и рыбалка" group-title="Мужской",Охота и рыбалка
+http://185.93.109.212:3001/general/Ohotairybalka.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/jk07Ev2J56XayZ7jjgMArgRlD9de8NWP.png" tvg-name="Охотник и Рыболов" group-title="Мужской",Охотник и Рыболов
+https://stream2.cinerama.uz/1413/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/g0zG8mANjv6eLoJJ8Lo23ODn9Yk71pX4.png" tvg-name="555 Hunt Fishing TV HD" group-title="Мужской",555 Hunt Fishing TV HD
+http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/Yjk07Ev2J56XayZ7WNZArgRlD9de8NWP.png" tvg-name="Наша Тема" group-title="Мужской",Наша Тема
+http://91.194.191.241:8081/chid301/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2277.png" tvg-name="RU TV" tv-number="'600'" group-title="Музыка",RU TV
+http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/l5gOW7dpJq9LRZAPyrMEkNQX2Bn6V1bA.png" tvg-name="Музыка Первого" group-title="Музыка",Музыка Первого
+https://cdn1.skygo.mn/live/disk1/Muzika/HLS-FTA/Muzika.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/680.png" tvg-name="ТНТ Music" group-title="Музыка",ТНТ Music
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/D6ga80m54j7eJAxN5BoYOLbBln3EQNrP.png" tvg-name="ЖАРА" group-title="Музыка",ЖАРА
+http://185.93.109.212:3001/general/ZHara.m3u
+#EXTINF:-1 tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-tmf-rus.jpg?itok=TdYJmEMu" tvg-name="Жара Kids TV" group-title="Музыка",TMF RUS
+http://hls.goodgame.ru:8080/hls/201891.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/681.png" tvg-name="Europa Plus TV" group-title="Музыка",Europa Plus TV
+http://135.181.115.81:8000/play/a01d/index.m3u8?token=livetv
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2022.png" tvg-name="Bridge HD" group-title="Музыка",Bridge TV Deluxe
+http://185.93.109.212:3001/general/BRIDGEDELUXE.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/151.png" tvg-name="Bridge TV" group-title="Музыка",Bridge TV
+http://185.93.109.212:3001/general/BRIDGE.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2024.png" tvg-name="BRIDGE TV Dance" group-title="Музыка",Bridge TV Hits
+http://185.93.109.212:3001/general/BRIDGEHITS.m3u
+#EXTINF:-1 tvg-id="6188" tvg-logo="https://app.playlistbox.com/icon/Q97O6Vp54NE2yxm6YDMLKe3Pjln8qJAm.png" tvg-name="BRIDGE TV ФРЭШ" group-title="Музыка",BRIDGE TV Rock
+http://185.93.109.212:3001/general/BRIDGERock.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4373.png" tvg-name="Bridge TV Classic" group-title="Музыка",Bridge TV Classic
+http://185.93.109.212:3001/general/BRIDGECLASSIC.m3u
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/591.png" tvg-name="BRIDGE TV Русский Хит" group-title="Музыка",Bridge TV Русский Хит
+http://185.93.109.212:3001/general/BRIDGERUSSKIYHIT.m3u
+#EXTINF:-1 tvg-id="bridge-tv-shlager" tvg-logo="http://epg.it999.ru/img/4621.png" tvg-name="Bridge TV Шлягер" group-title="Музыка",BRIDGE TV Шлягер
+http://185.93.109.212:3001/general/BRIDGESHLYAGER.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/8aNGL5kdnv361goavJxXVmPjYb7BWK4E.png" tvg-name="Шансон ТВ" group-title="Музыка",Шансон ТВ
+http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/5YDKwr2BqLzpgZeQGgZVW8J7GyvOXld6.png" tvg-name="Russian Musicbox" group-title="Музыка",Russian Musicbox
+http://185.93.109.212:3001/general/RUSSIANMUSICBOX.m3u
+#EXTINF:-1 tvg-id="viva-rus" tvg-logo="https://app.playlistbox.com/icon/GzJ5y6bgn0A4wMgql6oYN1Lr2PjakdQv.png" tvg-name="VIVA" group-title="Музыка",Bridge Фреш
+http://185.93.109.212:3001/general/BRIDGEFRYESH.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/7gAKaznkE1ybVxBD4kZ0PGQ4d98RpY2O.png" tvg-name="1 HD" group-title="Музыка",1 HD
+http://91.247.68.229:8000/play/eee/index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/y75Aja1n0b8YJZEJPmoOpLmdwRrqXgvP.png" tvg-name="Страна FM HD" group-title="Музыка",Страна FM HD
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="6270" tvg-logo="https://app.playlistbox.com/icon/X2d9PpDYbRjeqxRG8YMn5k71JNgAKrml.png" tvg-name="Музыка Кино International" group-title="Музыка",Музыка Кино International
+http://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1 tvg-id="6266" tvg-logo="https://app.playlistbox.com/icon/WnrJEQpk2Dbj6xjWALM0eNRPLK49Odlv.png" tvg-name="Музыка 1 International" group-title="Музыка",Музыка 1 International
+http://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 tvg-id="6268" tvg-logo="https://app.playlistbox.com/icon/K8XYmkqA6jOWBxPeBbMDE1bQl3R4Gyan.png" tvg-name="Музыка 2 International" group-title="Музыка",Музыка 2 International
+http://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/ROQV8j3aWyE2vxpNJaZwb4Gle19kPLKn.png" tvg-name="Viva" group-title="Музыка",Viva
+http://hls.goodgame.ru:8080/hls/180805.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/8qNz762JY5OD9x03G1oPn1eAa4GyvL0V.png" tvg-name="MTV Live HD" group-title="Музыка",MTV Live HD
+http://stream01.vnet.am/Channel_117/mono.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/LqEygb36eAPXvx45K6Mw1B4J20a7VGdn.png" tvg-name="Trace Urban HD" group-title="Музыка",Trace Urban HD
+http://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="Новое Радио" tvg-logo="https://app.playlistbox.com/icon/Wjm281v9VYqwzx9YWKxREnk3GBgNLKQX.png" tvg-name="Новое Радио ТВ" group-title="Музыка",Новое Радио ТВ
+http://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/Yjk07Ev2J56XayZ798xArgRlD9de8NWP.png" tvg-name="Barely legal" group-title="Взрослые",Barely legal
+http://185.93.109.212:3001/general/Barelylegal.m3u"
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/NROQV8j3aWyE2vxpOQowb4Gle19kPLKn.png" tvg-name="Blue Hustler" group-title="Взрослые",Blue Hustler
+http://185.93.109.212:3001/general/BlueHustler.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/NmGYXlVJ1Da0RjxX9jMzy8dek2wvP5gW.png" tvg-name="Erox" group-title="Взрослые",Erox
+http://185.93.109.212:3001/general/Erox.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/byYJGdpa7X3k5mZdWbMrv4jR21qgEADK.png" tvg-name="Exxxotica" group-title="Взрослые",Exxxotica
+http://185.93.109.212:3001/general/Exxxotica.m3u"
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/8gDbA7qlEn341oymaaoGdyX9vwPLOWm5.png" tvg-name="Red Lips" group-title="Взрослые",Red Lips
+http://185.93.109.212:3001/general/RedLips.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/lNqyYR0G5WKaBVxbyeo9wmD7pjLP28OE.png" tvg-name="Русская Ночь" group-title="Взрослые",Русская Ночь
+http://185.93.109.212:3001/general/Russkayanoch.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/ma2dV6vG79n1geMrrvMQ3EDLAN4b5ryw.png" tvg-name="Шалун" group-title="Взрослые",Шалун
+http://185.93.109.212:3001/general/SHalunHD.m3u
+#EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/PkNpg4maGY0QJolQ6lxWLRnbqy328jAv.png" tvg-name="Eromania" group-title="Взрослые",Eromania
+http://185.93.109.212:3001/general/YEromaniya.m3u
