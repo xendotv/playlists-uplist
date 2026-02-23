@@ -10,7 +10,7 @@ http://185.93.109.212:3001/general/Match.m3u
 #EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/eWjm281v9VYqwzx934ZREnk3GBgNLKQX.png" tvg-name="НТВ" group-title="Общие",НТВ HD
 http://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/427.png" tvg-name="Пятый Канал" group-title="Общие",Пятый канал
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/video_800x450_avc1/variant.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/187.png" tvg-name="Культура" group-title="Общие",Культура
 https://player.smotrim.ru/iframe/stream/live_id/19201
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1683.png" tvg-name="Россия 24" group-title="Общие",Россия 24
