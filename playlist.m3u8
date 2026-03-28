@@ -1,4 +1,14 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-rec="7" group-title="Эфирные",Первый канал HD
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/204/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Эфирные",Россия 1 HD
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/205/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Эфирные",Матч ТВ HD
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/212/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Эфирные",НТВ HD
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/213/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Эфирные",Пятый канал
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/112/index.m3u8
 #EXTINF:-1 tvg-rec="7" group-title="Эфирные",Россия К
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/505/index.m3u8
 #EXTINF:-1 tvg-rec="7" group-title="Эфирные",Россия 24
@@ -29,8 +39,6 @@ http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/15119/index.m3u8
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/237/index.m3u8
 #EXTINF:-1 tvg-rec="7" group-title="Эфирные",МУЗ-ТВ
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/116/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="Эфирные",МУЗ-ТВ orig
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/9169/index.m3u8
 #EXTINF:-1 tvg-rec="3" group-title="Эфирные",ТНТ4 HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/6370/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Эфирные",Суббота! HD
@@ -47,42 +55,12 @@ http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/103/index.m3u8
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/869/index.m3u8
 #EXTINF:-1 tvg-rec="7" group-title="Эфирные",ТНВ Планета (Татарстан)
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/515/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Новости",Известия HD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/18039/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Новости",РБК HD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/16075/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="Новости",Мир 24 HD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2107/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Новости",Москва 24
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/523/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Новости",Euronews Россия
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/828/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="Новости",RT News
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/840/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Новости",Известия
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2008/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Новости",РБК HD 50
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/10029/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Новости",Дождь
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2030/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="Новости",360 HD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2065/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="Новости",Вместе-РФ
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2073/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Новости",360 Новости HD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/18038/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Новости",РТР Планета
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/18042/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Новости",Мир 24
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/712/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Новости",Дождь HD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/20083/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Новости",RT Documentary HD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/14157/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Развлекательные",Перец International
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/15227/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Развлекательные",СТС International
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/15228/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Развлекательные",ТВЦ International
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/15229/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Развлекательные",НТВ Мир
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/14035/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Развлекательные",ТНТ International HD
@@ -139,8 +117,6 @@ http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2072/index.m3u8
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/5034/index.m3u8
 #EXTINF:-1 tvg-rec="3" group-title="Развлекательные",Театр
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2431/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Развлекательные",Женский Журнал
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/31932/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Развлекательные",Точка.РФ HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/19251/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Развлекательные",Женский Журнал HD
@@ -177,6 +153,34 @@ http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2041/index.m3u8
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/20013/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Развлекательные",О!Кино
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/20023/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Развлекательные",Ключ HD
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/20041/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Новости",Известия HD
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/18039/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Новости",РБК HD
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/16075/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Новости",Мир 24 HD
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2107/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Новости",Москва 24
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/523/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Новости",Euronews Россия
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/828/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Новости",RT News
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/840/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Новости",360 HD
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2065/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Новости",Вместе-РФ
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2073/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Новости",360 Новости HD
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/18038/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Новости",РТР Планета
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/18042/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Новости",Мир 24
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/712/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Новости",Дождь HD
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/20083/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Новости",RT Documentary HD
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/14157/index.m3u8
 #EXTINF:-1 tvg-rec="3" group-title="Кино и сериалы",Арсенал HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/5044/index.m3u8
 #EXTINF:-1 tvg-rec="3" group-title="Кино и сериалы",Победа HD
@@ -185,8 +189,6 @@ http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/5052/index.m3u8
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/5054/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино и сериалы",Патриот
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/31928/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Кино и сериалы",Ключ HD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/20041/index.m3u8
 #EXTINF:-1 tvg-rec="3" group-title="Кино и сериалы",Советская киноклассика HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2146/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино и сериалы",Мосфильм. Золотая коллекция HD
@@ -199,12 +201,14 @@ http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/31914/index.m3u8
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/31889/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино и сериалы",Госфильмофонд. Машина времени HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/31929/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Кино и сериалы",Дом Кино
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/154/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино и сериалы",Дом Кино Премиум HD orig
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/5082/index.m3u8
 #EXTINF:-1 tvg-rec="7" group-title="Кино и сериалы",Дом Кино Премиум HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/911/index.m3u8
 #EXTINF:-1 tvg-rec="7" group-title="Кино и сериалы",Феникс плюс Кино
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2039/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Кино и сериалы",Феникс плюс Кино HD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/16154/index.m3u8
 #EXTINF:-1 tvg-rec="3" group-title="Кино и сериалы",VHS-ка HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/5006/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино и сериалы",VHS-ка Сериал HD
@@ -226,13 +230,13 @@ http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/201/index.m3u8
 #EXTINF:-1 tvg-rec="7" group-title="Кино и сериалы",Viju+ Comedy HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/200/index.m3u8
 #EXTINF:-1 tvg-rec="3" group-title="Кино и сериалы",Viju+ Serial HD
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/9245/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино и сериалы",Viju+ Serial HD orig
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2443/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино и сериалы",Viasat Kino World HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/31448/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино и сериалы",Viasat Kino Action
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/12024/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Кино и сериалы",Viasat Serial HD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/17056/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино и сериалы",Viasat Kino
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/12031/index.m3u8
 #EXTINF:-1 tvg-rec="7" group-title="Кино и сериалы",Кинопремьера HD
@@ -283,8 +287,6 @@ http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/525/index.m3u8
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/9078/index.m3u8
 #EXTINF:-1 tvg-rec="7" group-title="Кино и сериалы",Еврокино
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/549/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Кино и сериалы",Дом Кино
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/154/index.m3u8
 #EXTINF:-1 tvg-rec="3" group-title="Кино и сериалы",Amedia 1 HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/9069/index.m3u8
 #EXTINF:-1 tvg-rec="7" group-title="Кино и сериалы",Amedia 1
@@ -363,8 +365,6 @@ http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/9135/index.m3u8
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/912/index.m3u8
 #EXTINF:-1 tvg-rec="7" group-title="Кино и сериалы",Душевное HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/914/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Кино и сериалы",Любимое HD orig
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/915/index.m3u8
 #EXTINF:-1 tvg-rec="3" group-title="Кино и сериалы",Epic HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2054/index.m3u8
 #EXTINF:-1 tvg-rec="3" group-title="Кино и сериалы",Epic Drama HD
@@ -373,8 +373,6 @@ http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/1048/index.m3u8
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/6299/index.m3u8
 #EXTINF:-1 tvg-rec="3" group-title="Кино и сериалы",Дорама HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2131/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Кино и сериалы",Sumiko HD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2163/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино и сериалы",Suspense HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2049/index.m3u8
 #EXTINF:-1 tvg-rec="3" group-title="Кино и сериалы",Любимое HD
@@ -397,6 +395,8 @@ http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2441/index.m3u8
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2438/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино и сериалы",Start World HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/19248/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Кино и сериалы",Start Air HD
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/18036/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Кино и сериалы",Cinema HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/19233/index.m3u8
 #EXTINF:-1 tvg-rec="7" group-title="Кино и сериалы",Комедия
@@ -433,8 +433,6 @@ http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/15099/index.m3u8
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/14034/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Детские",KinoKazka
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/15019/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Детские",Nick Jr.
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/114/index.m3u8
 #EXTINF:-1 tvg-rec="7" group-title="Детские",Nickelodeon HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/223/index.m3u8
 #EXTINF:-1 tvg-rec="7" group-title="Детские",Nickelodeon
@@ -457,10 +455,8 @@ http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/727/index.m3u8
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/9191/index.m3u8
 #EXTINF:-1 tvg-rec="3" group-title="Детские",Duck TV HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/1031/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="Детские",Baby TV
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2084/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="Детские",Gametoon HD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/5049/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Детские",Sumiko HD
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2163/index.m3u8
 #EXTINF:-1 tvg-rec="7" group-title="Детские",Cartoon Network HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/143/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Детские",Cartoon Classics
@@ -502,7 +498,7 @@ http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/203/index.m3u8
 #EXTINF:-1 tvg-rec="7" group-title="Познавательные",History HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/231/index.m3u8
 #EXTINF:-1 tvg-rec="3" group-title="Познавательные",History 2 HD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/1052/index.m3u8
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/9013/index.m3u8
 #EXTINF:-1 tvg-rec="3" group-title="Познавательные",В мире животных HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2089/index.m3u8
 #EXTINF:-1 tvg-rec="7" group-title="Познавательные",Большая Азия HD
@@ -519,8 +515,6 @@ http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/15018/index.m3u8
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/20032/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Познавательные",Точка Отрыва HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/20034/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Познавательные",Мужской HD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/20035/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Познавательные",Big Planet HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/20036/index.m3u8
 #EXTINF:-1 tvg-rec="3" group-title="Познавательные",Моя Планета HD
@@ -531,12 +525,8 @@ http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/111/index.m3u8
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/121/index.m3u8
 #EXTINF:-1 tvg-rec="7" group-title="Познавательные",Домашние Животные
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/158/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Познавательные",Точка Отрыва
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/159/index.m3u8
 #EXTINF:-1 tvg-rec="7" group-title="Познавательные",Океан HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/703/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Познавательные",Zоопарк
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/731/index.m3u8
 #EXTINF:-1 tvg-rec="7" group-title="Познавательные",RTG HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/210/index.m3u8
 #EXTINF:-1 tvg-rec="7" group-title="Познавательные",Travel Channel HD
@@ -549,8 +539,6 @@ http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/14020/index.m3u8
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2040/index.m3u8
 #EXTINF:-1 tvg-rec="3" group-title="Познавательные",Телепутешествия
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2051/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="Познавательные",Тайна
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2059/index.m3u8
 #EXTINF:-1 tvg-rec="3" group-title="Познавательные",Зоо ТВ
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2100/index.m3u8
 #EXTINF:-1 tvg-rec="3" group-title="Познавательные",Живая Планета
@@ -649,16 +637,8 @@ http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/19199/index.m3u8
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/19255/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Музыка",#ё HD (Самара)
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/20162/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Музыка",MTV Live HD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/221/index.m3u8
 #EXTINF:-1 tvg-rec="3" group-title="Музыка",о2тв HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2141/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Музыка",Первый музыкальный HD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/14142/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Музыка",Первый музыкальный HD BY
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/14144/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Музыка",Мелодии и ритмы зарубежной эстрады
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/17057/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Спорт",Удар HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/19246/index.m3u8
 #EXTINF:-1 tvg-rec="7" group-title="Спорт",KHL HD
@@ -703,12 +683,6 @@ http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/20004/index.m3u8
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/20028/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Спорт",Бокс ТВ HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/19245/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Спорт",Бокс ТВ
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/870/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Спорт",Setanta Sports 1 HD orig
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/6541/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="Спорт",Setanta Sports 2 HD orig
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/6542/index.m3u8
 #EXTINF:-1 tvg-rec="3" group-title="Спорт",Окко Футбол HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/6554/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Спорт",Окко Прайм Спорт HD
@@ -745,8 +719,8 @@ http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/917/index.m3u8
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2005/index.m3u8
 #EXTINF:-1 tvg-rec="7" group-title="Мужской",Дикий
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/847/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Мужской",Мужской
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2047/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Мужской",Мужской HD
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/20035/index.m3u8
 #EXTINF:-1 tvg-rec="7" group-title="Мужской",Дикая охота HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2004/index.m3u8
 #EXTINF:-1 tvg-rec="3" group-title="Мужской",Диалоги о рыбалке HD
@@ -757,6 +731,46 @@ http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2087/index.m3u8
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2019/index.m3u8
 #EXTINF:-1 tvg-rec="3" group-title="Мужской",Наша Тема
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2118/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="4K",Первый канал UHD
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/19241/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="4K",Россия 1 UHD
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/19242/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="4K",НТВ UHD
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/19405/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="4K",РЕН ТВ UHD
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/19404/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="4K",ТНТ UHD
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/19238/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="4K",Окко Футбол UHD
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/19430/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="4K",Eurosport 1 UHD
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/19432/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="4K",Eurosport 2 UHD
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/19431/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="4K",Eurosport 4K
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/31475/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="4K",TravelXP 4K
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/20031/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="4K",Museum 4K
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/14016/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="4K",Quadro 4K
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/19262/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="4K",Ultra HD Cinema 4K
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/4000/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="4K",Home 4K
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/4002/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="4K",Инсайт ТВ UHD
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/5000/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="4K",Love Nature 4K
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/5001/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="4K",MyZen 4K
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/5002/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="4K",Russian Extreme UHD
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/5003/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="4K",Кино UHD 4K
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/5004/index.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="4K",Глазами Туриста 4K
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/15191/index.m3u8
 #EXTINF:-1 tvg-rec="3" group-title="Взрослые",Playboy TV
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/527/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Взрослые",Eromania 4K
@@ -1169,81 +1183,3 @@ http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/20090/index.m3u8
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/31709/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Взрослые",StrahTV Ню Арт HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/31716/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="4K",Первый канал UHD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/19241/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="4K",Россия 1 UHD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/19242/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="4K",НТВ UHD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/19405/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="4K",РЕН ТВ UHD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/19404/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="4K",ТНТ UHD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/19238/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="4K",Окко Футбол UHD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/19430/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="4K",Eurosport 1 UHD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/19432/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="4K",Eurosport 2 UHD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/19431/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="4K",Eurosport 4K
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/31475/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="4K",TravelXP 4K HDR
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/14026/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="4K",TravelXP 4K
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/20031/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="4K",Museum 4K
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/14016/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="4K",Quadro 4K
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/19262/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="4K",Ultra HD Cinema 4K
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/4000/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="4K",Home 4K
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/4002/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="4K",Инсайт ТВ UHD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/5000/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="4K",Love Nature 4K
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/5001/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="4K",MyZen 4K
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/5002/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="4K",Russian Extreme UHD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/5003/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="4K",Кино UHD 4K
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/5004/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="4K",Глазами Туриста 4K
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/15191/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="HD",Россия 1 HD 50
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/15133/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="HD",Матч ТВ HD 50
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/10020/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="HD",Матч! Премьер HD 50
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/10021/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="HD",Матч! Футбол 1 HD 50
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/10015/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="HD",Матч! Футбол 2 HD 50
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/10027/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="HD",Матч! Футбол 3 HD 50
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/10016/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="HD",Матч! Игра HD 50
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/10014/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="HD",Премиальное HD 50
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/10017/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="HD",ТНТ HD 50
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/10024/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="HD",Удар FHD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2000/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="HD",FoodTime HD 50
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/10025/index.m3u8
-#EXTINF:-1 tvg-rec="0" group-title="HD",KHL Prime HD 50
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/10028/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="HD",Точка.РФ FHD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/226/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="HD",History FHD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/837/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="HD",History 2 FHD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2033/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="HD",Старт FHD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/2154/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="HD",Fashion & Lifestyle FHD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/1010/index.m3u8
-#EXTINF:-1 tvg-rec="3" group-title="HD",Amedia Premium FHD orig
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/9233/index.m3u8
