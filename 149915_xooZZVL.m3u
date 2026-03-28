@@ -12,9 +12,9 @@ http://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/427.png" tvg-name="Пятый Канал" group-title="Общие",Пятый канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/187.png" tvg-name="Культура" group-title="Общие",Культура
-https://player.smotrim.ru/iframe/stream/live_id/19201
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1683.png" tvg-name="Россия 24" group-title="Общие",Россия 24
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/video_800x450_avc1/variant.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/740.png" tvg-name="Карусель" group-title="Общие",Карусель
 #EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/video_800x450_avc1/variant.m3u8
