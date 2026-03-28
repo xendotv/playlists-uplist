@@ -1,14 +1,4 @@
-#EXTM3U
-#EXTINF:-1 tvg-rec="7" group-title="Эфирные",Первый канал HD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/204/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Эфирные",Россия 1 HD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/205/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Эфирные",Матч ТВ HD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/212/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Эфирные",НТВ HD
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/213/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Эфирные",Пятый канал
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/112/index.m3u8
+
 #EXTINF:-1 tvg-rec="7" group-title="Эфирные",Россия К
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/505/index.m3u8
 #EXTINF:-1 tvg-rec="7" group-title="Эфирные",Россия 24
