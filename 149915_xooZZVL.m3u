@@ -51,8 +51,8 @@ http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_CHR_UTV/variant.m3u8
 https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png" tvg-name="ТНТ4" group-title="Общие",ТНТ4
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
-#EXTINF:-1 tvg-logo="https://programma-peredach.com/img/ch/russkij-korabl.gif" tvg-name="Русский  Корабль" group-title="Общие",Русский  Корабль
-https://media.rus-ship.ru:8588/live/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=6e1ade3b5576d14062c97ee02e9d321b_sr-5723070-images-thumbs&n=13" group-title="Общие",СОЛОВЬЁВ LIVEᴴᴰ
+http://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1598.png" tvg-name="Че" group-title="Общие",Че!
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/898.png" tvg-name="Ю" group-title="Общие",Ю
