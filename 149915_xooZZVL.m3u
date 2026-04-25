@@ -8,7 +8,7 @@ http://185.93.109.212:3001/general/Rossiya1.m3u
 #EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
 http://185.93.109.212:3001/general/Match.m3u
 #EXTINF:-1 tvg-name="НТВ" group-title="Общие",НТВ HD
-http://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/427.png" tvg-name="Пятый Канал" group-title="Общие",Пятый канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/187.png" tvg-name="Культура" group-title="Общие",Культура
@@ -42,7 +42,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
 http://185.93.109.212:3001/general/TNT.m3u
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/897.png" tvg-name="МУЗ-ТВ" group-title="Общие",МУЗ-ТВ
-https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
+https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=On_-8-ES9PLCaKRlOkX_Mg&e=2066519852&scheme=https
 #EXTINF:-1 tvg-logo="https://resizer.mail.ru/p/ddb1c868-9933-5e3a-adba-4a5e412c005a/AAACPWfbuF3pxUR7cjYm590OKiChyMhDLLvTPgPqH8LDQpOPE18PA7Z9BTqjagAiNpugtrk2Tpkb62urro8K6bFlri0.png" tvg-name="Чaваш Ен" group-title="Общие",Чaваш Ен
 http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_CHR_NATIONALTV/variant.m3u8
 #EXTINF:-1 tvg-id="ЮТВ (Чебоксары)" tvg-logo="https://assets.limehd.tv/uploads/channel/179/thumb_edc216bf063873019db1fa95f0f9b558.png" tvg-name="ЮТВ Чебоксары" group-title="Общие",ЮТВ Чебоксары
@@ -85,6 +85,12 @@ http://cdn-01.bonus-tv.ru/gsl/tracks-v1a1/mono.m3u8
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-name="Твое ТВ Юмор HD" group-title="Развлекательные",Твое ТВ Юмор HD
 http://tvoetv.space:8080/tvoetv_humor/video.m3u8
+#EXTINF:-1 tvg-name="Кинолаффка HD" group-title="Кино и сериалы",Кинолаффка HD
+https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=3-8K19N5xjsPY74KF2TfUg&e=2065265032&scheme=https
+#EXTINF:-1 tvg-name="Кино и Жизнь HD" group-title="Кино и сериалы",Кино и Жизнь HD
+https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=ix0NUYiM353oJ7eEIovyVA&e=2066519843&scheme=https
+#EXTINF:-1 tvg-name="Киножелезо HD" group-title="Кино и сериалы",Киножелезо HD
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=k-NjGhi6zbRbggtmHIUL8Q&e=2065265031&scheme=https
 #EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/38qNz762JY5OD9x0KVoPn1eAa4GyvL0V.png" tvg-name="Победа HD" group-title="Кино и сериалы",Победа HD
 http://37.228.116.109/bigmak8/POBEDA/mono.m3u8?token=iptvboxJKASSUDHQWKJkldjiuANSXQHWEBDZKJdjk
 #EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/nV5EYdPgA0beWmo25qZl2Qpvy9L6KJa3.png" tvg-name="День Победы" group-title="Кино и сериалы",День Победы
@@ -92,11 +98,11 @@ http://185.93.109.212:3001/general/DenPobedy.m3u
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3357.png" tvg-name="Мосфильм. Золотая коллекция" group-title="Кино и сериалы",Мосфильм. Золотая коллекция
 rtmp://5.182.229.90//7347
 #EXTINF:-1 tvg-name="ViP Megahit" group-title="Кино и сериалы",ViP Megahit
-https://livetv-app.mylifeisgood.net.ru/channels/viju-megahit.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/vip_megahit/2/index.m3u8
 #EXTINF:-1 tvg-name="ViP Premiere" group-title="Кино и сериалы",ViP Premiere
-https://livetv-app.mylifeisgood.net.ru/channels/viju-premiere.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/vip_premiere/2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1011.png" tvg-name="ViP Comedy" group-title="Кино и сериалы",ViP Comedy
-https://livetv-app.mylifeisgood.net.ru/channels/viju-comedy.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/vip_comedy/2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png" tvg-name="ViP Serial" group-title="Кино и сериалы",ViP Serial
 https://a3569457567-s70378.cdn.ngenix.net/vip_serial/2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png" tvg-name="TV1000" group-title="Кино и сериалы",TV1000
@@ -250,11 +256,11 @@ http://185.93.109.212:3001/general/TerraInkognita.m3u
 #EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/W82YEm9Vw51D0poVKnxNr4jQPOGd7KJb.png" tvg-name="Нано ТВ HD" group-title="Познавательные",Нано ТВ HD
 http://185.93.109.212:3001/general/Nano.m3u
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/521.png" tvg-name="Viasat Explore" group-title="Познавательные",Viasat Explore
-https://livetv-app.mylifeisgood.net.ru/channels/viju-explorer.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/viasat_explore/2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/277.png" tvg-name="Viasat History" group-title="Познавательные",Viasat History
-https://livetv-app.mylifeisgood.net.ru/channels/viju-history.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/viasat_history/2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/765.png" tvg-name="Viasat Nature CEE" group-title="Познавательные",Viasat Nature
-https://livetv-app.mylifeisgood.net.ru/channels/viju-nature.m3u8
+https://a3569457567-s70378.cdn.ngenix.net/viasat_nature/2/index.m3u8
 #EXTINF:-1 tvg-name="Viju+ Planet HD" group-title="Познавательные",H2
 https://a3569457567-s70378.cdn.ngenix.net/history_2/1/index.m3u8
 #EXTINF:-1 tvg-name="History" group-title="Познавательные",History
@@ -495,5 +501,6 @@ http://185.93.109.212:3001/general/Russkayanoch.m3u
 http://185.93.109.212:3001/general/SHalunHD.m3u
 #EXTINF:-1 tvg-logo="https://app.playlistbox.com/icon/PkNpg4maGY0QJolQ6lxWLRnbqy328jAv.png" tvg-name="Eromania" group-title="Взрослые",Eromania
 http://185.93.109.212:3001/general/YEromaniya.m3u
+
 
 http://185.93.109.212:3001/general/YEromaniya.m3u
