@@ -11,8 +11,8 @@ http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/213/index.m3u8
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/112/index.m3u8
 #EXTINF:-1 tvg-rec="7" group-title="Эфирные",Россия К
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/505/index.m3u8
-#EXTINF:-1 tvg-rec="7" group-title="Эфирные",Россия 24
-http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/507/index.m3u8
+#EXTINF:-1 tvg-rec="7" group-title="Эфирные",Россия 24 HD
+http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/15412/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Эфирные",Карусель HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/20012/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Эфирные",ОТР HD
@@ -39,6 +39,10 @@ http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/15119/index.m3u8
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/237/index.m3u8
 #EXTINF:-1 tvg-rec="7" group-title="Эфирные",МУЗ-ТВ
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/116/index.m3u8
+#EXTINF:-1 tvg-rec="3" group-title="Эфирные",Чaваш Ен
+http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_CHR_NATIONALTV/variant.m3u8
+#EXTINF:-1 tvg-rec="0" group-title="Эфирные",ЮТВ Чебоксары
+http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VLG_CHR_UTV/variant.m3u8
 #EXTINF:-1 tvg-rec="3" group-title="Эфирные",ТНТ4 HD
 http://j9fjbohp.tvclub.xyz/iptv/DHTCDDWQAE4SMA/6370/index.m3u8
 #EXTINF:-1 tvg-rec="0" group-title="Эфирные",Суббота! HD
