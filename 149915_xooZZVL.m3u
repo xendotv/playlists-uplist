@@ -3,16 +3,16 @@
 #EXTVLCOPT:url-epg=http://www.teleguide.info/download/new3/xmltv.xml.gz
 http://dmi3y-tv.online/hls/T2/CH_1TVHD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/984.png" tvg-name="Россия HD" group-title="Общие",Россия 1 HD
-http://185.93.109.212:3001/general/Rossiya1.m3u
+http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2051.png" tvg-name="Матч! HD" group-title="Общие",Матч! HD
 #EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
 http://185.93.109.212:3001/general/Match.m3u
 #EXTINF:-1 tvg-name="НТВ" group-title="Общие",НТВ HD
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/427.png" tvg-name="Пятый Канал" group-title="Общие",Пятый канал HD
-http://cdn.kubteltv.workers.dev/?ID=423
+http://dmi3y-tv.online/hls/DVB-T2/CH_5TV.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/187.png" tvg-name="Культура" group-title="Общие",Культура
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIAKHD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1683.png" tvg-name="Россия 24" group-title="Общие",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/740.png" tvg-name="Карусель" group-title="Общие",Карусель
@@ -21,26 +21,26 @@ https://s91412.cdn.ngenix.net/mdrm/CH_KARUSEL/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1000.png" tvg-name="ОТР" group-title="Общие",ОТР
 https://s91412.cdn.ngenix.net/mdrm/CH_OTR/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" tvg-name="ТВ Центр" group-title="Общие",ТВ Центр
-http://185.93.109.212:3001/general/TVZentrHD.m3u
+http://dmi3y-tv.online/hls/DVB-T2/CH_TVC.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2487.png" tvg-name="РЕН ТВ" group-title="Общие",РЕН ТВ HD
-http://185.93.109.212:3001/general/RENTV.m3u
+http://dmi3y-tv.online/hls/DVB-T2/CH_RENTV.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2141.png" tvg-name="Спас ТВ" group-title="Общие",Спас ТВ
 http://s91412.cdn.ngenix.net/mdrm/CH_SPAS/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/79.png" tvg-name="СТС" group-title="Общие",СТС
-http://185.93.109.212:3001/general/STS.m3u
+http://dmi3y-tv.online/hls/DVB-T2/CH_STS.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/304.png" tvg-name="Домашний" group-title="Общие",Домашний
 http://185.93.109.212:3001/general/Domashniy.m3u
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/698.png" tvg-name="ТВ-3" group-title="Общие",ТВ-3
-http://185.93.109.212:3001/general/TV-3.m3u
+http://dmi3y-tv.online/hls/DVB-T2/CH_DOMASHNIY.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1003.png" tvg-name="Пятница" group-title="Общие",Пятница
-http://185.93.109.212:3001/general/Pyatniza.m3u
+http://dmi3y-tv.online/hls/DVB-T2/CH_FRIDAY.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/405.png" tvg-name="Звезда" group-title="Общие",Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/726.png" tvg-name="МИР" group-title="Общие",МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/353.png" tvg-name="ТНТ HD" group-title="Общие",ТНТ HD
 #EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
-http://185.93.109.212:3001/general/TNT.m3u
+http://dmi3y-tv.online/hls/DVB-T2/CH_TNT.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/897.png" tvg-name="МУЗ-ТВ" group-title="Общие",МУЗ-ТВ
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=On_-8-ES9PLCaKRlOkX_Mg&e=2066519852&scheme=https
 #EXTINF:-1 tvg-logo="https://resizer.mail.ru/p/ddb1c868-9933-5e3a-adba-4a5e412c005a/AAACPWfbuF3pxUR7cjYm590OKiChyMhDLLvTPgPqH8LDQpOPE18PA7Z9BTqjagAiNpugtrk2Tpkb62urro8K6bFlri0.png" tvg-name="Чaваш Ен" group-title="Общие",Чaваш Ен
