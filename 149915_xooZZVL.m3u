@@ -1,12 +1,12 @@
 #EXTM3U teleguide="http://www.teleguide.info/download/new3/xmltv.xml.gz"
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/983.png" tvg-name="Первый HD" tv-number="'1'" group-title="Общие",Первый HD
 #EXTVLCOPT:url-epg=http://www.teleguide.info/download/new3/xmltv.xml.gz
-http://dmi3y-tv.online/hls/T2/CH_1TVHD.m3u8
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=Gpp2l3R93dzqLRpD-8g90Q&e=2095291526&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/984.png" tvg-name="Россия HD" group-title="Общие",Россия 1 HD
-http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
+https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2051.png" tvg-name="Матч! HD" group-title="Общие",Матч! HD
 #EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
-http://185.93.109.212:3001/general/Match.m3u
+https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=erLyulwsn1KrOkse2NbY6A&e=2095291600&scheme=https
 #EXTINF:-1 tvg-name="НТВ" group-title="Общие",НТВ HD
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/427.png" tvg-name="Пятый Канал" group-title="Общие",Пятый канал HD
@@ -14,7 +14,7 @@ http://dmi3y-tv.online/hls/DVB-T2/CH_5TV.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/187.png" tvg-name="Культура" group-title="Общие",Культура
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIAKHD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1683.png" tvg-name="Россия 24" group-title="Общие",Россия 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/740.png" tvg-name="Карусель" group-title="Общие",Карусель
 #EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
 https://s91412.cdn.ngenix.net/mdrm/CH_KARUSEL/variant.m3u8?version=2
@@ -306,7 +306,7 @@ http://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1332.png" tvg-name="Мульт" tv-number="'400'" group-title="Детские",МУЛЬТ
 http://cdn.kubteltv.workers.dev/?ID=348
 #EXTINF:-1 tvg-logo="https://programma-peredach.com/img/ch/200/smotrim-100-detskoe.webp" tvg-name="Смотрим 100% Детское" group-title="Детские",Смотрим 100% Детское
-https://player.smotrim.ru/iframe/stream/live_id/29d87e02-f367-48b1-b63e-6ce7923ab089
+https://stream.smotrim.ru/hls3/fasttv05/playlist_3.m3u8
 #EXTINF:-1 tvg-name="Смайлик ТВ" group-title="Детские",Смайлик ТВ
 https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=MOCY2JvPXriCsyJWQK1Lag&e=2069285075&scheme=https
 #EXTINF:-1 tvg-name="Мультимузыка" group-title="Детские",Мультимузыка
