@@ -9,7 +9,7 @@ https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=er
 #EXTINF:-1 tvg-name="НТВ" group-title="Общие",НТВ HD
 https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=wW5B8hpEQHlwnkfn1rA8Og&e=2095336110&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/427.png" tvg-name="Пятый Канал" group-title="Общие",Пятый канал HD
-http://dmi3y-tv.online/hls/DVB-T2/CH_5TV.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/187.png" tvg-name="Культура" group-title="Общие",Культура
 http://dmi3y-tv.online/hls/smotrim/T2/CH_RUSSIAKHD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1683.png" tvg-name="Россия 24" group-title="Общие",Россия 24
@@ -20,7 +20,7 @@ https://s91412.cdn.ngenix.net/mdrm/CH_KARUSEL/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1000.png" tvg-name="ОТР" group-title="Общие",ОТР
 https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=-Ljjh5edzId0N6mpfpQ_7g&e=2095336168&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/649.png" tvg-name="ТВ Центр" group-title="Общие",ТВ Центр
-http://dmi3y-tv.online/hls/DVB-T2/CH_TVC.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2487.png" tvg-name="РЕН ТВ" group-title="Общие",РЕН ТВ HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2141.png" tvg-name="Спас ТВ" group-title="Общие",Спас ТВ
@@ -33,7 +33,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/698.png" tvg-name="ТВ-3" group-title="Общие",ТВ-3
 https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=c6Vm1aqRhKY-efJ5_q_mSg&e=2095336113&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1003.png" tvg-name="Пятница" group-title="Общие",Пятница
-http://dmi3y-tv.online/hls/DVB-T2/CH_FRIDAY.m3u8
+https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=ceFqt-T2gxaPvh0nzPY5mg&e=2095336112&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/405.png" tvg-name="Звезда" group-title="Общие",Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/726.png" tvg-name="МИР" group-title="Общие",МИР
@@ -244,7 +244,7 @@ http://185.93.109.212:3001/general/Mirseriala.m3u
 #EXTINF:-1 tvg-name="Trash HD" group-title="Кино и сериалы",Trash HD
 http://185.93.109.212:3001/general/Trash.m3u
 #EXTINF:-1 tvg-name="Арсенал HD" group-title="Познавательные",Арсенал HD
-http://185.93.109.212:3001/general/ArsenalHD.m3u
+https://stream8.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Живи" group-title="Познавательные",Живи
 https://a3569457567-s70378.cdn.ngenix.net/jivi/1/index.m3u8
 #EXTINF:-1 tvg-name="Travel+Adventure HD" group-title="Познавательные",Travel+Adventure HD
