@@ -1,7 +1,7 @@
 #EXTM3U teleguide="http://www.teleguide.info/download/new3/xmltv.xml.gz"
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/983.png" tvg-name="Первый HD" tv-number="'1'" group-title="Общие",Первый HD
 #EXTVLCOPT:url-epg=http://www.teleguide.info/download/new3/xmltv.xml.gz
-http://185.93.109.212:3001/general/Pervyykanal.m3u
+http://dmi3y-tv.online/hls/T2/CH_1TVHD.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/984.png" tvg-name="Россия HD" group-title="Общие",Россия 1 HD
 http://185.93.109.212:3001/general/Rossiya1.m3u
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2051.png" tvg-name="Матч! HD" group-title="Общие",Матч! HD
