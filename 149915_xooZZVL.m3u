@@ -7,7 +7,7 @@ https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2051.png" tvg-name="Матч! HD" group-title="Общие",Матч! HD
 https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=erLyulwsn1KrOkse2NbY6A&e=2095291600&scheme=https
 #EXTINF:-1 tvg-name="НТВ" group-title="Общие",НТВ HD
-https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=wW5B8hpEQHlwnkfn1rA8Og&e=2095336110&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/427.png" tvg-name="Пятый Канал" group-title="Общие",Пятый канал HD
 http://dmi3y-tv.online/hls/DVB-T2/CH_5TV.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/187.png" tvg-name="Культура" group-title="Общие",Культура
@@ -40,7 +40,7 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/353.png" tvg-name="ТНТ HD" group-title="Общие",ТНТ HD
 #EXTVLCOPT:http-user-agent=WINK/1.38.2 (AndroidTV/9) HlsWinkPlayer
-http://dmi3y-tv.online/hls/DVB-T2/CH_TNT.m3u8
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=cwB82UBBmgledie9YbrJyQ&e=2095336110&scheme=https
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/897.png" tvg-name="МУЗ-ТВ" group-title="Общие",МУЗ-ТВ
 https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=On_-8-ES9PLCaKRlOkX_Mg&e=2066519852&scheme=https
 #EXTINF:-1 tvg-logo="https://resizer.mail.ru/p/ddb1c868-9933-5e3a-adba-4a5e412c005a/AAACPWfbuF3pxUR7cjYm590OKiChyMhDLLvTPgPqH8LDQpOPE18PA7Z9BTqjagAiNpugtrk2Tpkb62urro8K6bFlri0.png" tvg-name="Чaваш Ен" group-title="Общие",Чaваш Ен
@@ -324,7 +324,7 @@ http://cdn.kubteltv.workers.dev/?ID=300
 #EXTINF:-1 tvg-name="Gulli Girl" group-title="Детские",Рыжий
 http://185.93.109.212:3001/general/Ryzhiy(surd).m3u
 #EXTINF:-1 tvg-name="Солнце" group-title="Детские",Солнце
-https://s91412.cdn.ngenix.net/mdrm/CH_DISNEY/variant.m3u8?version=2
+https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=J5QxYTC7ryId5cevOiBhhQ&e=2095336176&scheme=https
 #EXTINF:-1 tvg-name="Капитан Фантастика" group-title="Детские",Капитан Фантастика
 http://185.93.109.212:3001/general/KapitanFantastika.m3u
 #EXTINF:-1 tvg-name="СТС Kids HD" group-title="Детские",СТС Kids HD
@@ -333,22 +333,22 @@ http://185.93.109.212:3001/general/STSKids.m3u
 http://185.93.109.212:3001/general/BabyTime.m3u
 #EXTINF:-1 tvg-name="Детский Мир" group-title="Детские",Детский Мир
 https://a3569457567-s70378.cdn.ngenix.net/detskij_mir/1/index.m3u8
-#EXTINF:-1 tvg-name="Уникум" group-title="Детские",Уникум
-http://185.93.109.212:3001/general/Unikum.m3u
-#EXTINF:-1 tvg-name="Nickelodeon" group-title="Детские",Nickelodeon
-https://a3569457567-s70378.cdn.ngenix.net/nickelodeon/1/index.m3u8
-#EXTINF:-1 tvg-name="Супер Герои" group-title="Детские",Канал Малыш
-http://185.93.109.212:3001/general/Supergeroi.m3u
-#EXTINF:-1 tvg-name="Nicktoons" group-title="Детские",Nicktoons
-https://a3569457567-s70378.cdn.ngenix.net/nicktoons/1/index.m3u8
+#EXTINF:-1 tvg-name="Уникум" group-title="Детские",Ключайка
+https://bl.rutube.ru/livestream/ed497bdb28846536f3928849f8f7e469/index.m3u8?s=SfU2LMMpOF6G1gevu0-daA&e=2095336176&scheme=https
+#EXTINF:-1 tvg-name="Nickelodeon" group-title="Детские",Мультимейшин
+https://bl.rutube.ru/livestream/bc2933d28daf33f5a68257ebc72787cd/index.m3u8?s=XioaiDbdUrDN9Cy2ISOGtw&e=2095336172&scheme=https
+#EXTINF:-1 tvg-name="Супер Герои" group-title="Детские",Мультаташечки
+https://bl.rutube.ru/livestream/25a96d214a176541fba1d342ac760ee9/index.m3u8?s=-I5F75lKBD474yMUtAMAcg&e=2095336174&scheme=https
+#EXTINF:-1 tvg-name="Nicktoons" group-title="Детские",Мультач
+https://bl.rutube.ru/livestream/76de13007ff82a001f786f148e9fd39a/index.m3u8?s=jfIgipyUSvIWolqu_lKY2A&e=2095336172&scheme=https
 #EXTINF:-1 tvg-name="В гостях у Сказки" group-title="Детские",В гостях у Сказки
 http://185.93.109.212:3001/general/Vgostyahuskazki.m3u
-#EXTINF:-1 tvg-name="Da Vinci" group-title="Детские",Da Vinci
-http://185.93.109.212:3001/p/DaVinci.m3u8
+#EXTINF:-1 tvg-name="Da Vinci" group-title="Детские",Наше Аниме
+https://bl.rutube.ru/livestream/ec5267347fa50d03edba227906eba679/index.m3u8?s=988aXaR_WEaMzkaB0Q_heg&e=2095336171&scheme=https
 #EXTINF:-1 tvg-name="Ani" group-title="Детские",Ani
 http://cdn.kubteltv.workers.dev/?ID=367
-#EXTINF:-1 tvg-name="Советские мультфильмы" group-title="Детские",Советские мультфильмы
-http://185.93.109.212:3001/general/Sovetskiemultfilmy.m3u
+#EXTINF:-1 tvg-name="Советские мультфильмы" group-title="Детские",Радость моя
+https://bl.rutube.ru/livestream/9ad2099eed71b4a0e577292c3bfd0708/index.m3u8?s=dQf7zhEyjCVyT7hM2X0ucQ&e=2095336173&scheme=https
 #EXTINF:-1 tvg-name="Детское кино International" group-title="Детские",Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/55846/2a0000017de72061e078410111061a0147f3/340x200" tvg-name="Удар HD" group-title="Спорт",Удар HD
